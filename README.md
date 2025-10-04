@@ -64,7 +64,7 @@ The entire analysis and modeling process is documented in the Google Colab.
     ```bash
     Google Colab
     ```
-2.  Open and run the cells in `Jalal_Uddin_ML_JobTask_SET_B.ipynb`.
+2.  Open and run the cells in `Forecasting_Stock_Prices.ipynb`.
 
 ---
 
